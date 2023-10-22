@@ -1,2 +1,4 @@
 # Wordle
-Wordle in .py (Currently not working)
+Wordle in python
+
+it should work now
