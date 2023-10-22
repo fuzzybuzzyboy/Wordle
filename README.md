@@ -1,4 +1,4 @@
 # Wordle
-Wordle in python
+#### Wordle but in python
 
-it should work now
+Just play normal wordle 💀 (https://www.nytimes.com/games/wordle/index.html)
