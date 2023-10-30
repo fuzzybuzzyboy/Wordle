@@ -1,4 +1,4 @@
 # Wordle
-#### Wordle but in python
+#### Wordle but in python and worse
 
-Just play normal wordle 💀 (https://www.nytimes.com/games/wordle/index.html)
+Just play normal nytimes wordle 💀 (https://www.nytimes.com/games/wordle/index.html)
