@@ -3,7 +3,7 @@ import random
 Max = 6
 Result = ""
 
-Words = open('Words.txt').read().splitlines()
+Words = open('Words1.txt').read().splitlines()
 Random_Word = random.choice(Words)
 Random_Word = Random_Word.upper()
 
